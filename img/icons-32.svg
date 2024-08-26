@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-43);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-40);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-41);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-42);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-49);
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient-48);
+      }
+
+      .cls-17 {
+        fill: url(#linear-gradient-45);
+      }
+
+      .cls-18 {
+        fill: url(#linear-gradient-47);
+      }
+
+      .cls-19 {
+        fill: url(#linear-gradient-44);
+      }
+
+      .cls-20 {
+        fill: url(#linear-gradient-46);
+      }
+
+      .cls-21 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-22 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-23 {
+        fill: url(#linear-gradient-12);
+      }
+
+      .cls-24 {
+        fill: url(#linear-gradient-13);
+      }
+
+      .cls-25 {
+        fill: url(#linear-gradient-19);
+      }
+
+      .cls-26 {
+        fill: url(#linear-gradient-14);
+      }
+
+      .cls-27 {
+        fill: url(#linear-gradient-21);
+      }
+
+      .cls-28 {
+        fill: url(#linear-gradient-20);
+      }
+
+      .cls-29 {
+        fill: url(#linear-gradient-22);
+      }
+
+      .cls-30 {
+        fill: url(#linear-gradient-23);
+      }
+
+      .cls-31 {
+        fill: url(#linear-gradient-28);
+      }
+
+      .cls-32 {
+        fill: url(#linear-gradient-25);
+      }
+
+      .cls-33 {
+        fill: url(#linear-gradient-32);
+      }
+
+      .cls-34 {
+        fill: url(#linear-gradient-31);
+      }
+
+      .cls-35 {
+        fill: url(#linear-gradient-33);
+      }
+
+      .cls-36 {
+        fill: url(#linear-gradient-30);
+      }
+
+      .cls-37 {
+        fill: url(#linear-gradient-15);
+      }
+
+      .cls-38 {
+        fill: url(#linear-gradient-16);
+      }
+
+      .cls-39 {
+        fill: url(#linear-gradient-17);
+      }
+
+      .cls-40 {
+        fill: url(#linear-gradient-18);
+      }
+
+      .cls-41 {
+        fill: url(#linear-gradient-35);
+      }
+
+      .cls-42 {
+        fill: url(#linear-gradient-34);
+      }
+
+      .cls-43 {
+        fill: url(#linear-gradient-36);
+      }
+
+      .cls-44 {
+        fill: url(#linear-gradient-38);
+      }
+
+      .cls-45 {
+        fill: url(#linear-gradient-27);
+      }
+
+      .cls-46 {
+        fill: url(#linear-gradient-24);
+      }
+
+      .cls-47 {
+        fill: url(#linear-gradient-26);
+      }
+
+      .cls-48 {
+        fill: url(#linear-gradient-29);
+      }
+
+      .cls-49 {
+        fill: url(#linear-gradient-37);
+      }
+
+      .cls-50 {
+        fill: url(#linear-gradient-39);
+      }
+
+      .cls-51 {
+        fill: url(#linear-gradient-57);
+      }
+
+      .cls-52 {
+        fill: url(#linear-gradient-58);
+      }
+
+      .cls-53 {
+        fill: url(#linear-gradient-59);
+      }
+
+      .cls-54 {
+        fill: url(#linear-gradient-53);
+      }
+
+      .cls-55 {
+        fill: url(#linear-gradient-54);
+      }
+
+      .cls-56 {
+        fill: url(#linear-gradient-55);
+      }
+
+      .cls-57 {
+        fill: url(#linear-gradient-56);
+      }
+
+      .cls-58 {
+        fill: url(#linear-gradient-50);
+      }
+
+      .cls-59 {
+        fill: url(#linear-gradient-51);
+      }
+
+      .cls-60 {
+        fill: url(#linear-gradient-52);
+      }
+
+      .cls-61 {
+        fill: url(#linear-gradient-67);
+      }
+
+      .cls-62 {
+        fill: url(#linear-gradient-68);
+      }
+
+      .cls-63 {
+        fill: url(#linear-gradient-69);
+      }
+
+      .cls-64 {
+        fill: url(#linear-gradient-63);
+      }
+
+      .cls-65 {
+        fill: url(#linear-gradient-64);
+      }
+
+      .cls-66 {
+        fill: url(#linear-gradient-65);
+      }
+
+      .cls-67 {
+        fill: url(#linear-gradient-66);
+      }
+
+      .cls-68 {
+        fill: url(#linear-gradient-60);
+      }
+
+      .cls-69 {
+        fill: url(#linear-gradient-61);
+      }
+
+      .cls-70 {
+        fill: url(#linear-gradient-62);
+      }
+
+      .cls-71 {
+        fill: url(#linear-gradient-79);
+      }
+
+      .cls-72 {
+        fill: url(#linear-gradient-78);
+      }
+
+      .cls-73 {
+        fill: url(#linear-gradient-75);
+      }
+
+      .cls-74 {
+        fill: url(#linear-gradient-72);
+      }
+
+      .cls-75 {
+        fill: url(#linear-gradient-77);
+      }
+
+      .cls-76 {
+        fill: url(#linear-gradient-74);
+      }
+
+      .cls-77 {
+        fill: url(#linear-gradient-76);
+      }
+
+      .cls-78 {
+        fill: url(#linear-gradient-71);
+      }
+
+      .cls-79 {
+        fill: url(#linear-gradient-73);
+      }
+
+      .cls-80 {
+        fill: url(#linear-gradient-70);
+      }
+
+      .cls-81 {
+        fill: url(#linear-gradient-87);
+      }
+
+      .cls-82 {
+        fill: url(#linear-gradient-88);
+      }
+
+      .cls-83 {
+        fill: url(#linear-gradient-89);
+      }
+
+      .cls-84 {
+        fill: url(#linear-gradient-85);
+      }
+
+      .cls-85 {
+        fill: url(#linear-gradient-83);
+      }
+
+      .cls-86 {
+        fill: url(#linear-gradient-82);
+      }
+
+      .cls-87 {
+        fill: url(#linear-gradient-84);
+      }
+
+      .cls-88 {
+        fill: url(#linear-gradient-86);
+      }
+
+      .cls-89 {
+        fill: url(#linear-gradient-81);
+      }
+
+      .cls-90 {
+        fill: url(#linear-gradient-80);
+      }
+
+      .cls-91 {
+        fill: url(#linear-gradient-99);
+      }
+
+      .cls-92 {
+        fill: url(#linear-gradient-96);
+      }
+
+      .cls-93 {
+        fill: url(#linear-gradient-97);
+      }
+
+      .cls-94 {
+        fill: url(#linear-gradient-98);
+      }
+
+      .cls-95 {
+        fill: url(#linear-gradient-92);
+      }
+
+      .cls-96 {
+        fill: url(#linear-gradient-93);
+      }
+
+      .cls-97 {
+        fill: url(#linear-gradient-94);
+      }
+
+      .cls-98 {
+        fill: url(#linear-gradient-91);
+      }
+
+      .cls-99 {
+        fill: url(#linear-gradient-95);
+      }
+
+      .cls-100 {
+        fill: url(#linear-gradient-90);
+      }
+
+      .cls-101 {
+        fill: url(#linear-gradient-102);
+      }
+
+      .cls-102 {
+        fill: url(#linear-gradient-101);
+      }
+
+      .cls-103 {
+        fill: url(#linear-gradient-100);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="200" y1="393" x2="200" y2="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003291"/>
+      <stop offset="1" stop-color="#004991"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="200" y1="390.63" x2="200" y2="25.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#005791"/>
+      <stop offset="1" stop-color="#007791"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="200" y1="393" x2="200" y2="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#002262"/>
+      <stop offset="1" stop-color="#003162"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="200" y1="391.4" x2="200" y2="24.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003b62"/>
+      <stop offset="1" stop-color="#005062"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="-410.16" y1="-2407.31" x2="-409.16" y2="-2407.31" gradientTransform="translate(929410.23 -157926.1) rotate(-90) scale(385.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#48149f"/>
+      <stop offset="1" stop-color="#4e44a0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="-410.16" y1="-2407.31" x2="-409.16" y2="-2407.31" gradientTransform="translate(929410.23 -157926.1) rotate(-90) scale(385.99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#002262"/>
+      <stop offset="1" stop-color="#003162"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="-489.88" y1="-1058.79" x2="-488.88" y2="-1058.79" gradientTransform="translate(995.72 -165.19) rotate(-90) scale(.77)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003291"/>
+      <stop offset="1" stop-color="#004991"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="-2418.62" y1="31564.71" x2="-2417.62" y2="31564.71" gradientTransform="translate(-780.31 139.5) rotate(-90) scale(.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-9" x1="-737.78" y1="3134.18" x2="-736.78" y2="3134.18" gradientTransform="translate(-403.52 70.06) rotate(-90) scale(.19)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-10" x1="-864.03" y1="5269.64" x2="-863.03" y2="5269.64" gradientTransform="translate(-528.56 96.8) rotate(-90) scale(.14)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-11" x1="-2692.52" y1="36197.62" x2="-2691.52" y2="36197.62" gradientTransform="translate(-793.24 139.54) rotate(-90) scale(.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-12" x1="-520.02" y1="-548.98" x2="-519.02" y2="-548.98" gradientTransform="translate(488.28 -80.05) rotate(-90) scale(.56)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-13" x1="-1559.09" y1="17026.33" x2="-1558.09" y2="17026.33" gradientTransform="translate(-726.31 124.58) rotate(-90) scale(.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-14" x1="-1059.62" y1="8577.94" x2="-1058.62" y2="8577.94" gradientTransform="translate(-627.19 107.86) rotate(-90) scale(.09)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-15" x1="-1117.26" y1="9552.92" x2="-1116.26" y2="9552.92" gradientTransform="translate(-649.92 112.81) rotate(-90) scale(.09)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-16" x1="-974.85" y1="7144.19" x2="-973.85" y2="7144.19" gradientTransform="translate(-597.21 103.76) rotate(-90) scale(.11)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-17" x1="-2379.23" y1="30898.54" x2="-2378.23" y2="30898.54" gradientTransform="translate(-780.78 140.34) rotate(-90) scale(.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-18" x1="-560.8" y1="140.65" x2="-559.8" y2="140.65" gradientTransform="translate(121.65 -16.14) rotate(-90) scale(.41)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-19" x1="-472.69" y1="-1349.62" x2="-471.69" y2="-1349.62" gradientTransform="translate(1499.76 -250.51) rotate(-90) scale(.98)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-20" x1="-1381.28" y1="14018.77" x2="-1380.28" y2="14018.77" gradientTransform="translate(-705.15 123.77) rotate(-90) scale(.06)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-21" x1="-1207.07" y1="11072.03" x2="-1206.07" y2="11072.03" gradientTransform="translate(-671.89 118.05) rotate(-90) scale(.08)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-22" x1="-1141.4" y1="9961.28" x2="-1140.4" y2="9961.28" gradientTransform="translate(-653.99 114.75) rotate(-90) scale(.08)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-23" x1="-614.96" y1="1056.81" x2="-613.96" y2="1056.81" gradientTransform="translate(-135.64 26.79) rotate(-90) scale(.3)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-24" x1="180.18" y1="213.25" x2="180.2" y2="213.25" gradientTransform="matrix(0,0,0,0,-1265.39,-159.54)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-25" x1="-3608.43" y1="51689.85" x2="-3607.43" y2="51689.85" gradientTransform="translate(-810.39 144.12) rotate(-90) scale(.02)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-26" x1="-1586" y1="17481.51" x2="-1585" y2="17481.51" gradientTransform="translate(-728.59 128.36) rotate(-90) scale(.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-27" x1="-1620.01" y1="18056.69" x2="-1619.01" y2="18056.69" gradientTransform="translate(-732.14 128.91) rotate(-90) scale(.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-28" x1="-1656.04" y1="18666.12" x2="-1655.04" y2="18666.12" gradientTransform="translate(-737.88 128.5) rotate(-90) scale(.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-29" x1="-933.08" y1="6437.58" x2="-932.08" y2="6437.58" gradientTransform="translate(-573.78 100.57) rotate(-90) scale(.12)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-30" x1="-2713.46" y1="36551.82" x2="-2712.46" y2="36551.82" gradientTransform="translate(-796.29 144.85) rotate(-90) scale(.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-31" x1="-599.78" y1="800.01" x2="-598.78" y2="800.01" gradientTransform="translate(-72.48 21.98) rotate(-90) scale(.32)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-32" x1="-493.64" y1="-995.33" x2="-492.64" y2="-995.33" gradientTransform="translate(915.73 -146.41) rotate(-90) scale(.73)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-33" x1="-801.7" y1="4215.33" x2="-800.7" y2="4215.33" gradientTransform="translate(-472.61 85.49) rotate(-90) scale(.16)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-34" x1="-969.19" y1="7048.44" x2="-968.19" y2="7048.44" gradientTransform="translate(-586.17 108.41) rotate(-90) scale(.11)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-35" x1="-813.01" y1="4406.75" x2="-812.01" y2="4406.75" gradientTransform="translate(-486.29 82.86) rotate(-90) scale(.15)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-36" x1="-799.27" y1="4174.25" x2="-798.27" y2="4174.25" gradientTransform="translate(-473.09 80.81) rotate(-90) scale(.16)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-37" x1="-1142" y1="9971.45" x2="-1141" y2="9971.45" gradientTransform="translate(-654.81 110.22) rotate(-90) scale(.08)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-38" x1="-529.45" y1="-389.62" x2="-528.45" y2="-389.62" gradientTransform="translate(385.54 -55.48) rotate(-90) scale(.51)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-39" x1="-448.44" y1="-1759.74" x2="-447.44" y2="-1759.74" gradientTransform="translate(2979.97 -500.12) rotate(-90) scale(1.59)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-40" x1="-673.46" y1="2046.28" x2="-672.46" y2="2046.28" gradientTransform="translate(-297.21 46.58) rotate(-90) scale(.23)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-41" x1="-513.37" y1="-661.61" x2="-512.37" y2="-661.61" gradientTransform="translate(568.38 -87.4) rotate(-90) scale(.59)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-42" x1="-469.74" y1="-1399.57" x2="-468.74" y2="-1399.57" gradientTransform="translate(1617.72 -270.65) rotate(-90) scale(1.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-43" x1="-514.22" y1="-647.09" x2="-513.22" y2="-647.09" gradientTransform="translate(557.85 -94.58) rotate(-90) scale(.59)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-44" x1="-1704.21" y1="19480.92" x2="-1703.21" y2="19480.92" gradientTransform="translate(-742.78 125.18) rotate(-90) scale(.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-45" x1="-713.23" y1="2719.03" x2="-712.23" y2="2719.03" gradientTransform="translate(-370.1 71.75) rotate(-90) scale(.2)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-46" x1="-2418.62" y1="31564.71" x2="-2417.62" y2="31564.71" gradientTransform="translate(-783.08 142.16) rotate(-90) scale(.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-47" x1="-598.92" y1="785.51" x2="-597.92" y2="785.51" gradientTransform="translate(-69.95 18.11) rotate(-90) scale(.32)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-48" x1="-914.17" y1="6117.79" x2="-913.17" y2="6117.79" gradientTransform="translate(-559.65 98.1) rotate(-90) scale(.12)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-49" x1="-3921.57" y1="56986.34" x2="-3920.57" y2="56986.34" gradientTransform="translate(-814.8 147.49) rotate(-90) scale(.02)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-50" x1="182.83" y1="208.04" x2="182.83" y2="208.04" gradientTransform="matrix(0,0,0,0,-1246.84,-167.54)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-51" x1="-473.58" y1="-1334.58" x2="-472.58" y2="-1334.58" gradientTransform="translate(1465.57 -249.72) rotate(-90) scale(.96)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-52" x1="-838.46" y1="4837.16" x2="-837.46" y2="4837.16" gradientTransform="translate(-515.07 88.04) rotate(-90) scale(.14)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-53" x1="-483.74" y1="-1162.76" x2="-482.74" y2="-1162.76" gradientTransform="translate(1143.29 -193.3) rotate(-90) scale(.83)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-54" x1="-782.52" y1="3890.95" x2="-781.52" y2="3890.95" gradientTransform="translate(-461.48 86.87) rotate(-90) scale(.16)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-55" x1="-544.45" y1="-135.92" x2="-543.45" y2="-135.92" gradientTransform="translate(243.13 -34.87) rotate(-90) scale(.46)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-56" x1="-434.04" y1="-2003.45" x2="-433.04" y2="-2003.45" gradientTransform="translate(5286.83 -891.45) rotate(-90) scale(2.55)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-57" x1="-1084.03" y1="8990.91" x2="-1083.03" y2="8990.91" gradientTransform="translate(-638.59 117.14) rotate(-90) scale(.09)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-58" x1="-504.03" y1="-819.49" x2="-503.03" y2="-819.49" gradientTransform="translate(715.87 -112.58) rotate(-90) scale(.65)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-59" x1="-425" y1="-2156.35" x2="-424" y2="-2156.35" gradientTransform="translate(8990.59 -1524.31) rotate(-90) scale(4.09)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-60" x1="-660.33" y1="1824.14" x2="-659.33" y2="1824.14" gradientTransform="translate(-269.04 45.57) rotate(-90) scale(.24)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-61" x1="-432.9" y1="-2022.73" x2="-431.9" y2="-2022.73" gradientTransform="translate(5599.93 -947.04) rotate(-90) scale(2.68)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-62" x1="-629.66" y1="1305.52" x2="-628.66" y2="1305.52" gradientTransform="translate(-180.31 33.42) rotate(-90) scale(.28)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-63" x1="-485.56" y1="-1131.99" x2="-484.56" y2="-1131.99" gradientTransform="translate(1101.71 -185.07) rotate(-90) scale(.81)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-64" x1="-789.84" y1="4014.87" x2="-788.84" y2="4014.87" gradientTransform="translate(-470.05 79.56) rotate(-90) scale(.16)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-65" x1="-431.14" y1="-2052.37" x2="-430.14" y2="-2052.37" gradientTransform="translate(6134.08 -1034.62) rotate(-90) scale(2.9)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-66" x1="-745.66" y1="3267.59" x2="-744.66" y2="3267.59" gradientTransform="translate(-411.76 75.94) rotate(-90) scale(.18)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-67" x1="-580.38" y1="471.91" x2="-579.38" y2="471.91" gradientTransform="translate(11 -.8) rotate(-90) scale(.36)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-68" x1="-501.75" y1="-858.16" x2="-500.75" y2="-858.16" gradientTransform="translate(755.48 -128.87) rotate(-90) scale(.67)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-69" x1="-438.43" y1="-1929.18" x2="-437.43" y2="-1929.18" gradientTransform="translate(4340.9 -726.99) rotate(-90) scale(2.16)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-70" x1="-453.36" y1="-1676.65" x2="-452.36" y2="-1676.65" gradientTransform="translate(2545.49 -424.63) rotate(-90) scale(1.41)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-71" x1="-416.1" y1="-2306.88" x2="-415.1" y2="-2306.88" gradientTransform="translate(23369.71 -3970.2) rotate(-90) scale(10.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-72" x1="-410.17" y1="-2407.16" x2="-409.17" y2="-2407.16" gradientTransform="translate(877803.19 -149146.35) rotate(-90) scale(364.58)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003b62"/>
+      <stop offset="1" stop-color="#005062"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-73" x1="-977.41" y1="7187.37" x2="-976.41" y2="7187.37" gradientTransform="translate(-600.84 110.85) rotate(-90) scale(.11)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-74" x1="-424.89" y1="-2158.1" x2="-423.89" y2="-2158.1" gradientTransform="translate(9068.36 -1538.05) rotate(-90) scale(4.12)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-75" x1="-509.28" y1="-730.74" x2="-508.28" y2="-730.74" gradientTransform="translate(638.28 -102.88) rotate(-90) scale(.62)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-76" x1="-432.75" y1="-2025.11" x2="-431.75" y2="-2025.11" gradientTransform="translate(5642.15 -951.23) rotate(-90) scale(2.69)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-77" x1="-625.15" y1="1229.11" x2="-624.15" y2="1229.11" gradientTransform="translate(-163.08 33.74) rotate(-90) scale(.28)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-78" x1="-2095.08" y1="26092.27" x2="-2094.08" y2="26092.27" gradientTransform="translate(-763.78 140.04) rotate(-90) scale(.04)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-79" x1="-428.08" y1="-2104.23" x2="-427.08" y2="-2104.23" gradientTransform="translate(7313.11 -1238.52) rotate(-90) scale(3.39)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-80" x1="-452.67" y1="-1688.24" x2="-451.67" y2="-1688.24" gradientTransform="translate(2604.1 -440.83) rotate(-90) scale(1.44)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-81" x1="-443.86" y1="-1837.34" x2="-442.86" y2="-1837.34" gradientTransform="translate(3508.99 -590.78) rotate(-90) scale(1.81)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-82" x1="-1439" y1="14995.08" x2="-1438" y2="14995.08" gradientTransform="translate(-711.2 127.18) rotate(-90) scale(.06)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-83" x1="-963.03" y1="6944.27" x2="-962.03" y2="6944.27" gradientTransform="translate(-590.91 104.67) rotate(-90) scale(.11)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-84" x1="-463.31" y1="-1508.34" x2="-462.31" y2="-1508.34" gradientTransform="translate(1916.32 -321.83) rotate(-90) scale(1.15)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-85" x1="-453.73" y1="-1670.26" x2="-452.73" y2="-1670.26" gradientTransform="translate(2520.58 -422.71) rotate(-90) scale(1.4)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-86" x1="-452.46" y1="-1691.78" x2="-451.46" y2="-1691.78" gradientTransform="translate(2622.05 -440.79) rotate(-90) scale(1.44)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-87" x1="-618.19" y1="1111.42" x2="-617.19" y2="1111.42" gradientTransform="translate(-146.81 30.66) rotate(-90) scale(.29)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-88" x1="-483.61" y1="-1164.96" x2="-482.61" y2="-1164.96" gradientTransform="translate(1150.11 -191.93) rotate(-90) scale(.83)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-89" x1="181.12" y1="209.77" x2="181.17" y2="209.77" gradientTransform="matrix(0,0,0,0,-1255.66,-164.56)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-90" x1="-2495.84" y1="32870.95" x2="-2494.84" y2="32870.95" gradientTransform="translate(-785.04 136.45) rotate(-90) scale(.03)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-91" x1="182.1" y1="212.84" x2="182.11" y2="212.84" gradientTransform="matrix(0,0,0,0,-1257.84,-160.95)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-92" x1="180.76" y1="214.41" x2="180.85" y2="214.41" gradientTransform="matrix(0,0,0,0,-1245.91,-161.69)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-93" x1="-727.42" y1="2958.95" x2="-726.42" y2="2958.95" gradientTransform="translate(-391.18 73.93) rotate(-90) scale(.19)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-94" x1="-461.85" y1="-1532.92" x2="-460.85" y2="-1532.92" gradientTransform="translate(1991.08 -331.76) rotate(-90) scale(1.18)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-95" x1="-476.3" y1="-1288.57" x2="-475.3" y2="-1288.57" gradientTransform="translate(1373.38 -225.99) rotate(-90) scale(.92)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-96" x1="-551.77" y1="-12.01" x2="-550.77" y2="-12.01" gradientTransform="translate(184 -27.27) rotate(-90) scale(.43)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-97" x1="-456.41" y1="-1625.03" x2="-455.41" y2="-1625.03" gradientTransform="translate(2327.85 -390.17) rotate(-90) scale(1.32)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-98" x1="-433.88" y1="-2006.08" x2="-432.88" y2="-2006.08" gradientTransform="translate(5332.68 -900.44) rotate(-90) scale(2.57)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-99" x1="-446.77" y1="-1788.12" x2="-445.77" y2="-1788.12" gradientTransform="translate(3160.64 -533.99) rotate(-90) scale(1.67)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-100" x1="-621.39" y1="1165.62" x2="-620.39" y2="1165.62" gradientTransform="translate(-156.99 29.02) rotate(-90) scale(.29)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-101" x1="-1594.33" y1="17622.26" x2="-1593.33" y2="17622.26" gradientTransform="translate(-729.21 127.21) rotate(-90) scale(.05)" xlink:href="#linear-gradient-7"/>
+    <linearGradient id="linear-gradient-102" x1="-685.61" y1="2251.73" x2="-684.61" y2="2251.73" gradientTransform="translate(-317.82 57.46) rotate(-90) scale(.22)" xlink:href="#linear-gradient-7"/>
+  </defs>
+  <path class="cls-9" d="M238.9,389.08c26.33-5.39,50.83-16.05,72.82-31.68,2.5-1.78,5-3.65,7.43-5.56,4.83-3.8,9.55-7.88,14-12.13,4.46-4.25,8.76-8.76,12.78-13.41,3.03-3.5,5.96-7.14,8.72-10.83,25.08-33.54,38.34-73.47,38.34-115.47,0-11.48-1.01-22.98-3.01-34.17-.56-3.14-1.21-6.31-1.93-9.42-1.42-6.17-3.17-12.33-5.2-18.31-2-5.93-4.33-11.82-6.91-17.52-1.28-2.82-2.64-5.66-4.07-8.44-1.41-2.76-2.91-5.52-4.46-8.2-2.31-4.01-4.79-8-7.39-11.84-2.01-2.98-4.23-6.06-6.61-9.16-2.49-3.25-5.01-6.36-7.5-9.23-2.01-2.33-4.11-4.63-6.23-6.85-2.56-2.69-5.36-5.44-8.31-8.18-4.01-3.73-8.13-7.26-12.25-10.5-2.43-1.91-4.93-3.78-7.43-5.56-4.43-3.15-9.15-6.2-14.02-9.07-2.16-1.27-3.97-2.3-5.71-3.25-16.67-9.05-34.53-15.57-53.09-19.37-1.57-.32-3.15-.62-4.73-.91-4.75-.85-9.61-1.53-14.43-2.02-6.51-.66-13.15-1-19.74-1s-13.23.34-19.74,1c-4.82.49-9.68,1.17-14.43,2.02-1.58.28-3.16.59-4.73.91-18.56,3.8-36.42,10.31-53.09,19.37-1.71.93-3.53,1.96-5.71,3.25-4.87,2.86-9.59,5.91-14.02,9.07-2.52,1.79-5.02,3.66-7.43,5.56-4.12,3.24-8.24,6.77-12.25,10.5-2.95,2.75-5.75,5.5-8.31,8.18-2.13,2.24-4.23,4.54-6.23,6.85-2.48,2.86-5,5.97-7.5,9.24-2.42,3.16-4.58,6.16-6.61,9.16-2.6,3.85-5.08,7.83-7.39,11.84-1.55,2.69-3.05,5.45-4.46,8.2-1.42,2.77-2.79,5.61-4.06,8.44-2.58,5.7-4.9,11.6-6.91,17.52-2.03,5.98-3.77,12.14-5.2,18.31-.71,3.09-1.36,6.26-1.93,9.42-2,11.2-3.01,22.7-3.01,34.17,0,42,13.26,81.93,38.34,115.47,2.77,3.7,5.7,7.34,8.72,10.83,4.03,4.65,8.33,9.16,12.78,13.4,4.45,4.25,9.17,8.33,14.01,12.13,2.42,1.9,4.92,3.77,7.43,5.56,21.99,15.63,46.48,26.29,72.82,31.68,1.57.32,3.15.62,4.73.91,4.76.85,9.61,1.53,14.43,2.02,13.02,1.32,26.47,1.32,39.48,0,4.82-.49,9.67-1.17,14.43-2.02,1.58-.28,3.16-.59,4.73-.91Z"/>
+  <path class="cls-8" d="M272.95,377.95l65.77-76.65,29.73-93.47-44.6-122.9-119.69-59.47-110.25,43.61-47.57,80.28-14.78,70.37,76.23,93.17,138.76,25.77,59.47-70.37-9.91-124.88-91.94-56.49-69.62,27.75s-46.58,49.56-47.57,55.5c-.99,5.95,33.7,79.29,35.68,83.25,1.98,3.96,104.07,23.79,104.07,23.79l31.72-64.95s-42.62-44.08-45.59-44.08-52.53.99-57.49,3.96c-4.96,2.97-8.92,32.65-7.93,40.11.99,7.46,46.58,20.35,46.58,20.35,0,0,11.38-13.94,10.15-20.35-1.23-6.41-23.03-8.39-23.03-8.39l3.96-10.25h29.73l4.96,39-46.58,15.81-50.55-44.55,8.92-49.48,68.43-26.84,56.45,44.6,21.8,57.49-39.65,77.31-114.97-25.77-56.49-104.95,45.59-84.35,80.28-31.52,115.96,67.2,19.82,120.87-48.57,79.34-54.82,62.86c.37.02,2.88-.33,6.42-.94,1.41-.24,2.96-.58,4.67-.83.9-.13,1.83-.34,2.83-.58.37-.09.77-.23,1.15-.31,12.66-2.32,26.05-7.45,30.29-9.06.26-.1,1.81-.65,2.17-.96Z"/>
+  <g>
+    <path class="cls-7" d="M238.9,389.08c26.33-5.39,50.83-16.05,72.82-31.68,2.5-1.78,5-3.65,7.43-5.56,4.83-3.8,9.55-7.88,14-12.13,4.46-4.25,8.76-8.76,12.78-13.41,3.03-3.5,5.96-7.14,8.72-10.83,25.08-33.54,38.34-73.47,38.34-115.47,0-11.48-1.01-22.98-3.01-34.17-.56-3.14-1.21-6.31-1.93-9.42-1.42-6.17-3.17-12.33-5.2-18.31-2-5.93-4.33-11.82-6.91-17.52-1.28-2.82-2.64-5.66-4.07-8.44-1.41-2.76-2.91-5.52-4.46-8.2-2.31-4.01-4.79-8-7.39-11.84-2.01-2.98-4.23-6.06-6.61-9.16-2.49-3.25-5.01-6.36-7.5-9.23-2.01-2.33-4.11-4.63-6.23-6.85-2.56-2.69-5.36-5.44-8.31-8.18-4.01-3.73-8.13-7.26-12.25-10.5-2.43-1.91-4.93-3.78-7.43-5.56-4.43-3.15-9.15-6.2-14.02-9.07-2.16-1.27-3.97-2.3-5.71-3.25-16.67-9.05-34.53-15.57-53.09-19.37-1.57-.32-3.15-.62-4.73-.91-4.75-.85-9.61-1.53-14.43-2.02-6.51-.66-13.15-1-19.74-1s-13.23.34-19.74,1c-4.82.49-9.68,1.17-14.43,2.02-1.58.28-3.16.59-4.73.91-18.56,3.8-36.42,10.31-53.09,19.37-1.71.93-3.53,1.96-5.71,3.25-4.87,2.86-9.59,5.91-14.02,9.07-2.52,1.79-5.02,3.66-7.43,5.56-4.12,3.24-8.24,6.77-12.25,10.5-2.95,2.75-5.75,5.5-8.31,8.18-2.13,2.24-4.23,4.54-6.23,6.85-2.48,2.86-5,5.97-7.5,9.24-2.42,3.16-4.58,6.16-6.61,9.16-2.6,3.85-5.08,7.83-7.39,11.84-1.55,2.69-3.05,5.45-4.46,8.2-1.42,2.77-2.79,5.61-4.06,8.44-2.58,5.7-4.9,11.6-6.91,17.52-2.03,5.98-3.77,12.14-5.2,18.31-.71,3.09-1.36,6.26-1.93,9.42-2,11.2-3.01,22.7-3.01,34.17,0,42,13.26,81.93,38.34,115.47,2.77,3.7,5.7,7.34,8.72,10.83,4.03,4.65,8.33,9.16,12.78,13.4,4.45,4.25,9.17,8.33,14.01,12.13,2.42,1.9,4.92,3.77,7.43,5.56,21.99,15.63,46.48,26.29,72.82,31.68,1.57.32,3.15.62,4.73.91,4.76.85,9.61,1.53,14.43,2.02,13.02,1.32,26.47,1.32,39.48,0,4.82-.49,9.67-1.17,14.43-2.02,1.58-.28,3.16-.59,4.73-.91Z"/>
+    <path class="cls-6" d="M224.92,391.4c3.1-.4,6.2-.87,9.25-1.41,1.58-.28,3.16-.59,4.73-.91,14.76-3.02,28.94-7.7,42.43-13.98l57.39-74.84,29.73-93.47-44.6-122.9-119.69-59.47-110.25,43.61-47.57,80.28-14.78,70.37,76.23,93.17,138.76,25.77,59.47-70.37-9.91-124.88-91.94-56.49-69.62,27.75s-46.58,49.56-47.57,55.5,33.7,79.29,35.68,83.25c1.98,3.96,104.07,23.79,104.07,23.79l31.72-64.95s-42.62-44.08-45.59-44.08-52.53.99-57.49,3.96c-4.96,2.97-8.92,32.65-7.93,40.11s46.58,20.35,46.58,20.35c0,0,11.38-13.94,10.15-20.35-1.23-6.41-23.03-8.39-23.03-8.39l3.96-10.25h29.73l4.96,39-46.58,15.81-50.55-44.55,8.92-49.48,68.43-26.84,56.45,44.6,21.8,57.49-39.65,77.31-114.97-25.77-56.49-104.95,45.59-84.35,80.28-31.52,115.96,67.2,19.82,120.87-48.57,79.34-55.32,64.69Z"/>
+  </g>
+  <g>
+    <path class="cls-3" d="M238.9,389.08c26.33-5.39,50.83-16.05,72.82-31.68,2.5-1.78,5-3.65,7.43-5.56,4.83-3.8,9.55-7.88,14-12.13,4.46-4.25,8.76-8.76,12.78-13.41,3.03-3.5,5.96-7.14,8.72-10.83,25.08-33.54,38.34-73.47,38.34-115.47,0-11.48-1.01-22.98-3.01-34.17-.56-3.14-1.21-6.31-1.93-9.42-1.42-6.17-3.17-12.33-5.2-18.31-2-5.93-4.33-11.82-6.91-17.52-1.28-2.82-2.64-5.66-4.07-8.44-1.41-2.76-2.91-5.52-4.46-8.2-2.31-4.01-4.79-8-7.39-11.84-2.01-2.98-4.23-6.06-6.61-9.16-2.49-3.25-5.01-6.36-7.5-9.23-2.01-2.33-4.11-4.63-6.23-6.85-2.56-2.69-5.36-5.44-8.31-8.18-4.01-3.73-8.13-7.26-12.25-10.5-2.43-1.91-4.93-3.78-7.43-5.56-4.43-3.15-9.15-6.2-14.02-9.07-2.16-1.27-3.97-2.3-5.71-3.25-16.67-9.05-34.53-15.57-53.09-19.37-1.57-.32-3.15-.62-4.73-.91-4.75-.85-9.61-1.53-14.43-2.02-6.51-.66-13.15-1-19.74-1s-13.23.34-19.74,1c-4.82.49-9.68,1.17-14.43,2.02-1.58.28-3.16.59-4.73.91-18.56,3.8-36.42,10.31-53.09,19.37-1.71.93-3.53,1.96-5.71,3.25-4.87,2.86-9.59,5.91-14.02,9.07-2.52,1.79-5.02,3.66-7.43,5.56-4.12,3.24-8.24,6.77-12.25,10.5-2.95,2.75-5.75,5.5-8.31,8.18-2.13,2.24-4.23,4.54-6.23,6.85-2.48,2.86-5,5.97-7.5,9.24-2.42,3.16-4.58,6.16-6.61,9.16-2.6,3.85-5.08,7.83-7.39,11.84-1.55,2.69-3.05,5.45-4.46,8.2-1.42,2.77-2.79,5.61-4.06,8.44-2.58,5.7-4.9,11.6-6.91,17.52-2.03,5.98-3.77,12.14-5.2,18.31-.71,3.09-1.36,6.26-1.93,9.42-2,11.2-3.01,22.7-3.01,34.17,0,42,13.26,81.93,38.34,115.47,2.77,3.7,5.7,7.34,8.72,10.83,4.03,4.65,8.33,9.16,12.78,13.4,4.45,4.25,9.17,8.33,14.01,12.13,2.42,1.9,4.92,3.77,7.43,5.56,21.99,15.63,46.48,26.29,72.82,31.68,1.57.32,3.15.62,4.73.91,4.76.85,9.61,1.53,14.43,2.02,13.02,1.32,26.47,1.32,39.48,0,4.82-.49,9.67-1.17,14.43-2.02,1.58-.28,3.16-.59,4.73-.91Z"/>
+    <path class="cls-4" d="M238.9,389.08c26.33-5.39,50.83-16.05,72.82-31.68,2.5-1.78,5-3.65,7.43-5.56,4.83-3.8,9.55-7.88,14-12.13,4.46-4.25,8.76-8.76,12.78-13.41,3.03-3.5,5.96-7.14,8.72-10.83,25.08-33.54,38.34-73.47,38.34-115.47,0-11.48-1.01-22.98-3.01-34.17-.56-3.14-1.21-6.31-1.93-9.42-1.42-6.17-3.17-12.33-5.2-18.31-2-5.93-4.33-11.82-6.91-17.52-1.28-2.82-2.64-5.66-4.07-8.44-1.41-2.76-2.91-5.52-4.46-8.2-2.31-4.01-4.79-8-7.39-11.84-2.01-2.98-4.23-6.06-6.61-9.16-2.49-3.25-5.01-6.36-7.5-9.23-2.01-2.33-4.11-4.63-6.23-6.85-2.56-2.69-5.36-5.44-8.31-8.18-4.01-3.73-8.13-7.26-12.25-10.5-2.43-1.91-4.93-3.78-7.43-5.56-4.43-3.15-9.15-6.2-14.02-9.07-2.16-1.27-3.97-2.3-5.71-3.25-16.67-9.05-34.53-15.57-53.09-19.37-1.57-.32-3.15-.62-4.73-.91-4.75-.85-9.61-1.53-14.43-2.02-6.51-.66-13.15-1-19.74-1s-13.23.34-19.74,1c-4.82.49-9.68,1.17-14.43,2.02-1.58.28-3.16.59-4.73.91-18.56,3.8-36.42,10.31-53.09,19.37-1.71.93-3.53,1.96-5.71,3.25-4.87,2.86-9.59,5.91-14.02,9.07-2.52,1.79-5.02,3.66-7.43,5.56-4.12,3.24-8.24,6.77-12.25,10.5-2.95,2.75-5.75,5.5-8.31,8.18-2.13,2.24-4.23,4.54-6.23,6.85-2.48,2.86-5,5.97-7.5,9.24-2.42,3.16-4.58,6.16-6.61,9.16-2.6,3.85-5.08,7.83-7.39,11.84-1.55,2.69-3.05,5.45-4.46,8.2-1.42,2.77-2.79,5.61-4.06,8.44-2.58,5.7-4.9,11.6-6.91,17.52-2.03,5.98-3.77,12.14-5.2,18.31-.71,3.09-1.36,6.26-1.93,9.42-2,11.2-3.01,22.7-3.01,34.17,0,42,13.26,81.93,38.34,115.47,2.77,3.7,5.7,7.34,8.72,10.83,4.03,4.65,8.33,9.16,12.78,13.4,4.45,4.25,9.17,8.33,14.01,12.13,2.42,1.9,4.92,3.77,7.43,5.56,21.99,15.63,46.48,26.29,72.82,31.68,1.57.32,3.15.62,4.73.91,4.76.85,9.61,1.53,14.43,2.02,13.02,1.32,26.47,1.32,39.48,0,4.82-.49,9.67-1.17,14.43-2.02,1.58-.28,3.16-.59,4.73-.91Z"/>
+    <path class="cls-2" d="M183.38,210.47l.09.25c-.08-.27-.21-.53-.39-.77.11.16.22.32.29.52Z"/>
+    <path class="cls-1" d="M182.95,213.31l.02-.03-.02.03Z"/>
+    <path class="cls-5" d="M182.83,208.04c-.14-.07-.28-.14-.43-.19.15.05.29.11.43.19Z"/>
+    <path class="cls-21" d="M182.83,213.45l.12-.14-.12.14Z"/>
+    <path class="cls-22" d="M178.86,211.82v.03s0-.03,0-.03Z"/>
+    <path class="cls-23" d="M182.85,209.68c-.25-.25-.54-.44-.85-.56.34.15.63.34.85.56Z"/>
+    <path class="cls-24" d="M182.06,207.75l-.21-.05.21.05Z"/>
+    <path class="cls-26" d="M182.4,207.85c-.11-.04-.22-.07-.33-.09.11.03.22.06.33.09Z"/>
+    <path class="cls-37" d="M178.05,209.55l-.04.09.04-.09Z"/>
+    <path class="cls-38" d="M178.12,209.44l-.06.11.06-.11Z"/>
+    <path class="cls-39" d="M180.85,214.41c.12,0,.23-.01.34-.03-.11.02-.23.03-.34.03Z"/>
+    <path class="cls-40" d="M178.8,211.42c0,.14.03.27.07.41-.04-.13-.06-.27-.07-.41Z"/>
+    <path class="cls-25" d="M180.08,211.68c-.14-.34-.06-.71.15-.98-.21.27-.3.64-.15.98Z"/>
+    <path class="cls-28" d="M179.58,210.88v.06s0-.06,0-.06Z"/>
+    <path class="cls-27" d="M179.61,210.8l-.02.08.02-.08Z"/>
+    <path class="cls-29" d="M180.61,210.41c.15-.07.32-.1.5-.07-.18-.03-.35,0-.5.07Z"/>
+    <path class="cls-30" d="M180.24,210.7c.1-.13.23-.23.37-.3-.15.07-.27.17-.37.3Z"/>
+    <path class="cls-46" d="M180.18,213.25h.02s-.02,0-.02,0Z"/>
+    <path class="cls-32" d="M180.2,213.26l.09.02-.09-.02Z"/>
+    <path class="cls-47" d="M182.62,211.03v-.05s0,.05,0,.05Z"/>
+    <path class="cls-45" d="M182.61,210.98l-.02-.05.02.05Z"/>
+    <path class="cls-31" d="M180.44,209.92l-.1.05.1-.05Z"/>
+    <path class="cls-48" d="M180.8,209.8c-.12.02-.24.06-.36.12.12-.05.24-.09.36-.12Z"/>
+    <path class="cls-36" d="M176.38,217.03l.04.03-.04-.03Z"/>
+    <path class="cls-34" d="M185.8,215.71c.08-.11.17-.21.24-.32-.07.11-.16.22-.24.32Z"/>
+    <path class="cls-33" d="M186.04,215.39c.15-.23.28-.48.4-.73-.12.26-.25.5-.4.73Z"/>
+    <path class="cls-35" d="M187.07,210.95l-.02-.16.02.16Z"/>
+    <path class="cls-42" d="M186.44,214.65l.06-.11-.06.11Z"/>
+    <path class="cls-41" d="M184.11,206.52c-.09-.05-.18-.1-.28-.15.09.05.19.1.28.15Z"/>
+    <path class="cls-43" d="M184.36,206.67l-.25-.16.25.16Z"/>
+    <path class="cls-49" d="M180.41,205.77c-.14.02-.28.05-.42.08.14-.04.28-.06.42-.08Z"/>
+    <path class="cls-44" d="M185.39,216.22c.15-.16.27-.34.4-.51-.13.18-.26.35-.4.51Z"/>
+    <path class="cls-50" d="M173.71,213.32c.18.55.43,1.09.75,1.59-.31-.5-.56-1.03-.75-1.59Z"/>
+    <path class="cls-12" d="M179.25,203.04c-.24.06-.47.14-.7.23.23-.09.47-.17.7-.23Z"/>
+    <path class="cls-13" d="M175.69,216.44c.22.21.45.41.69.59-.24-.18-.47-.38-.69-.59Z"/>
+    <path class="cls-14" d="M181.11,210.33h0c.59.06.91.53.95,1.03-.04-.5-.35-.97-.95-1.03Z"/>
+    <path class="cls-11" d="M177.52,207.27c-.18.18-.35.38-.5.59.16-.22.32-.41.5-.59Z"/>
+    <path class="cls-19" d="M179.99,205.85l-.17.05.17-.05Z"/>
+    <path class="cls-17" d="M179.18,215.72c.24.09.49.16.74.2-.24-.05-.49-.11-.74-.2Z"/>
+    <path class="cls-20" d="M179.99,215.94c.13.02.27.02.41.03-.14,0-.27,0-.41-.03Z"/>
+    <path class="cls-18" d="M184.9,212.43c.02-.11.03-.22.04-.32,0,.11-.03.22-.04.32Z"/>
+    <path class="cls-16" d="M184.21,209.25l-.09-.12.09.12Z"/>
+    <path class="cls-15" d="M179.92,215.93l.07.02-.07-.02Z"/>
+    <path class="cls-58" d="M182.83,208.04h0s0,0,0,0Z"/>
+    <path class="cls-59" d="M179.14,206.15c.22-.1.45-.18.67-.25-.66.18-1.29.49-1.86.96.35-.28.74-.53,1.18-.72Z"/>
+    <path class="cls-60" d="M177.02,207.86l-.1.14.1-.14Z"/>
+    <path class="cls-54" d="M176.92,208c-.18.27-.34.54-.47.83.14-.3.3-.58.47-.83Z"/>
+    <path class="cls-55" d="M178.6,215.47c.12.06.24.11.37.16-.13-.05-.25-.11-.37-.16Z"/>
+    <path class="cls-56" d="M181.21,213.32c.32-.06.59-.21.82-.41-.47.39-1.13.52-1.74.37.29.09.6.11.92.04Z"/>
+    <path class="cls-57" d="M178.6,215.47c-1.01-.54-1.83-1.46-2.29-2.55.39,1.06,1.15,1.99,2.29,2.55Z"/>
+    <polygon class="cls-51" points="179.18 215.72 178.96 215.63 179.14 215.71 179.18 215.72"/>
+    <path class="cls-52" d="M182.92,215.33c-.84.5-1.7.69-2.52.64.94.07,1.8-.17,2.52-.64Z"/>
+    <path class="cls-53" d="M176.31,212.92c-.48-1.3-.42-2.79.14-4.09l-.09.16c-.62,1.34-.55,2.74-.06,3.93Z"/>
+    <path class="cls-68" d="M177.52,207.27l.24-.24-.24.24Z"/>
+    <path class="cls-69" d="M184.21,209.25c.52.76.8,1.72.76,2.68.08-.92-.14-1.86-.76-2.68Z"/>
+    <path class="cls-70" d="M183.88,208.85c.08.09.16.18.23.28-.08-.09-.15-.19-.23-.28Z"/>
+    <path class="cls-64" d="M182.83,208.04c.16.08.31.18.46.29.22.16.41.34.58.52-.3-.33-.65-.61-1.05-.81Z"/>
+    <path class="cls-65" d="M177.76,207.02l.2-.16-.2.16Z"/>
+    <path class="cls-66" d="M184.9,212.43c-.25,1.17-.97,2.24-1.98,2.9l.12-.07c1.11-.74,1.68-1.77,1.86-2.83Z"/>
+    <path class="cls-67" d="M184.97,211.93l-.02.18.02-.18Z"/>
+    <path class="cls-61" d="M179.7,208.01c.78-.32,1.51-.41,2.16-.31-.74-.13-1.49,0-2.16.31Z"/>
+    <path class="cls-62" d="M180.41,205.77c1.16-.16,2.36.06,3.42.6-1.04-.56-2.23-.8-3.42-.6Z"/>
+    <path class="cls-63" d="M182.07,218.23c1.28-.29,2.42-1.01,3.29-1.97-2.23,2.38-6.13,2.82-8.94.8,1.53,1.13,3.5,1.66,5.65,1.17Z"/>
+    <path class="cls-80" d="M175.57,216.33c-.25-.25-.49-.52-.71-.82-.15-.19-.27-.39-.4-.59.32.51.68.99,1.1,1.41Z"/>
+    <path class="cls-78" d="M173.93,207.78c-.82,1.85-.81,3.81-.22,5.55-1.25-3.89.96-8.57,4.83-10.05-2.02.75-3.75,2.27-4.61,4.51Z"/>
+    <path class="cls-74" d="M349.21,115.38c-38.75-61.3-114.56-97.08-186.44-84.43C77.51,44.91,15.38,126.1,21.09,211.68c3.6,72.77,60.96,136.94,133.94,144.96,35.43,4.56,72.61-5.53,100.5-27.69,80.37-62.9,69.38-193.9-31.11-228.48-58.75-19.79-121.41,11.61-140.26,70.7-10.86,33.08-5,71.45,17.57,98.32,21.87,27,59.01,40.97,93.1,33.01,46.44-10.36,76.54-59.37,65.43-105.47-10.62-46.49-63.51-75.11-106.91-52.48-30.77,15.81-46.2,54.92-33.16,87.2,10.18,26.62,39.85,44.24,68.05,38.47,41.45-7.92,60.56-61.44,30.4-92.15-15.58-16.38-42.95-20.13-61.27-6.17-18.27,13.11-24.62,40.57-12.08,59.64,5.98,9.39,15.93,16.21,26.95,18.01,16.89,3.19,34.04-6.71,40.09-22.72,8.88-22.22-6.28-47.28-30.89-46.65-17.33.51-30.5,17.43-27.52,34.34,2.67,17.16,22.63,28,37.82,18.51,15.12-9.29,15.31-32.89-1.61-40.31-13.92-6.2-28.99,5.33-26.87,20.36,1.09,8.25,8.72,15.02,17.1,14.71,15.76-.43,21.07-22.7,5.93-28.85-8.23-3.28-17.25,3.13-17.05,11.94-.12,8.83,10.61,14.84,17.55,8.8,4.25-3.54,4.88-10.71.69-14.53-2.24-2.25-5.46-2.9-8.27-2.12.25-.07.5-.13.76-.17,4.08-.74,8.29,1.84,9.7,5.7,2.6,6.66-3.31,14.39-10.46,13.41-9-.97-12.68-11.74-7.44-18.68,7.55-10.15,23.03-3.81,23.38,8.23.49,11.93-12.03,19.84-22.6,14.23-13.4-7-11.48-26.6,1.75-32.63,10.04-4.8,22.75,1.1,26.62,11.28,2.07,4.98,2.04,10.7.32,15.78-5.82,17.05-26.98,20.88-39.35,8.31-12.07-11.87-8.98-32.83,4.62-42.19,13.57-9.87,33.38-4.58,41.96,9.33,12.23,18.9,1.25,45.58-20.19,51.51-28.44,7.51-53.02-19.33-46.43-47.22,3.25-15.61,15.66-28.91,31.19-32.71,15.41-3.94,32.54,1.52,43.41,12.98,15.15,15.21,17.41,40.02,7.42,58.62-9.55,18.86-31.01,30.65-52.04,27.81-20.95-2.17-39.56-17.12-46.94-36.72-7.61-19.53-3.95-42.55,8.06-59.54,11.89-17.05,32.35-27.7,53.18-26.91,31.57.56,59.65,24.78,66.18,55.43,4.52,20.07.22,41.99-10.81,59.27-23.26,36.84-70.98,46.31-107.73,23.91-46.75-28.3-54.35-90.87-22.5-133.42,56.93-74.26,169.4-31.14,177.19,57.74,6.79,87.28-76.8,151.38-158.86,118.28-79.48-32.42-102.03-128.74-56.38-198.49,59.59-91.06,188.7-79.83,243.81,9.63,42.41,67,25.06,160.19-32.62,212.65-27.39,25.73-62.75,40.84-99.49,43.97,11.54.89,23.34.75,34.8-.41,4.82-.49,9.67-1.17,14.43-2.02,1.58-.28,3.16-.59,4.73-.91,26.33-5.39,50.83-16.05,72.82-31.68,2.5-1.78,5-3.65,7.43-5.56,4.83-3.8,9.55-7.88,14-12.13,4.46-4.25,8.76-8.76,12.78-13.41,3.03-3.5,5.96-7.14,8.72-10.83,5.54-7.41,10.51-15.14,14.88-23.14,4.13-12.37,7.19-25.28,9.07-38.65,7.07-47.67-2.92-97.91-29.41-138.31Z"/>
+    <path class="cls-79" d="M175.69,216.44l-.12-.11.12.11Z"/>
+    <path class="cls-76" d="M184.36,206.67c1.39.93,2.43,2.43,2.69,4.12-.26-1.8-1.31-3.24-2.69-4.12Z"/>
+    <path class="cls-73" d="M187.07,210.95c.03.2.04.41.04.62,0-.21-.02-.42-.04-.62Z"/>
+    <path class="cls-77" d="M187.1,211.85c0,.19-.02.39-.05.59-.08.77-.27,1.48-.56,2.11.31-.66.52-1.37.58-2.11.03-.2.02-.39.02-.59Z"/>
+    <path class="cls-75" d="M187.12,211.56c0,.09,0,.19-.01.28,0-.1.01-.19.01-.28Z"/>
+    <path class="cls-72" d="M185.39,216.22l-.04.04.04-.04Z"/>
+    <path class="cls-71" d="M177.68,211.53c.05.54.25,1.06.55,1.5-.63-.98-.71-2.3-.22-3.39-.28.55-.41,1.19-.34,1.89Z"/>
+    <path class="cls-90" d="M178.12,209.44c.37-.63.93-1.13,1.58-1.44l-.26.09c-.6.32-1.04.8-1.33,1.34Z"/>
+    <path class="cls-89" d="M182.62,211.03c.15.63-.05,1.34-.51,1.81.24-.22.42-.51.5-.86.11-.32.1-.65,0-.95Z"/>
+    <path class="cls-86" d="M182.1,212.85l-.08.06.08-.06Z"/>
+    <path class="cls-85" d="M178.8,211.42v-.11s0,.11,0,.11Z"/>
+    <path class="cls-87" d="M181.17,209.78c.62.07,1.19.54,1.42,1.15-.09-.3-.26-.57-.53-.78-.27-.24-.58-.35-.88-.37Z"/>
+    <path class="cls-84" d="M180.18,213.25c-.62-.23-1.11-.77-1.31-1.4.09.3.24.6.48.86.23.27.51.44.82.54Z"/>
+    <path class="cls-88" d="M179.65,211.87c.08.21.23.38.4.52-.39-.34-.59-.91-.48-1.44-.07.29-.06.6.08.93Z"/>
+    <path class="cls-81" d="M180.82,212.68c-.28-.01-.55-.12-.77-.29.21.18.47.29.77.29Z"/>
+    <path class="cls-82" d="M179.61,210.8c.13-.36.4-.65.73-.83l-.17.09c-.29.2-.47.46-.56.75Z"/>
+    <path class="cls-83" d="M181.12,209.77h.06s-.06,0-.06,0Z"/>
+    <path class="cls-100" d="M180.8,209.8c.1-.02.21-.04.31-.03-.11,0-.21,0-.31.03Z"/>
+    <path class="cls-98" d="M182.11,212.84h0s0,0,0,0Z"/>
+    <path class="cls-95" d="M180.85,214.41h-.09s.09,0,.09,0Z"/>
+    <path class="cls-96" d="M180.76,214.41c-.17,0-.35-.02-.53-.06-.18-.03-.34-.08-.5-.13.16.06.33.1.5.13.18.04.36.06.53.06Z"/>
+    <path class="cls-97" d="M179.73,214.21c-.61-.22-1.13-.65-1.49-1.18.34.53.84.95,1.49,1.18Z"/>
+    <path class="cls-99" d="M182.83,213.45c-.43.48-1,.82-1.64.92.67-.1,1.23-.44,1.64-.92Z"/>
+    <path class="cls-92" d="M178.78,211.3c0-.14.01-.29.04-.43-.03.14-.04.29-.04.43Z"/>
+    <path class="cls-93" d="M181.34,212.58c.53-.2.76-.73.72-1.22.04.5-.2,1.03-.72,1.22-.18.07-.36.1-.52.1.18,0,.35-.02.52-.1Z"/>
+    <path class="cls-94" d="M183.47,210.72c.25.86.05,1.83-.49,2.57.55-.72.79-1.67.49-2.57Z"/>
+    <path class="cls-91" d="M178.83,210.82v.05c.13-.69.58-1.32,1.19-1.67-.58.29-1.05.82-1.19,1.62Z"/>
+    <path class="cls-103" d="M180.03,209.21c.6-.3,1.33-.33,1.97-.09l-.05-.03c-.69-.29-1.37-.2-1.92.11Z"/>
+    <path class="cls-102" d="M182.85,209.68l.05.05-.05-.05Z"/>
+    <path class="cls-101" d="M182.9,209.73l.18.22-.18-.22Z"/>
+  </g>
+  <g>
+    <path class="cls-10" d="M229.36,207.24l13.13-13.13-24.93-24.93-13.13,13.13c-7.38-4.64-15.58-8.08-24.33-10.08v-18.57h-35.25v18.57c-8.75,2-16.95,5.44-24.33,10.08l-13.13-13.13-24.93,24.93,13.13,13.13c-4.64,7.38-8.08,15.58-10.08,24.33h-18.57v35.25h18.57c2,8.75,5.44,16.95,10.08,24.33l-13.13,13.13,24.93,24.93,13.13-13.13c7.38,4.64,15.58,8.08,24.33,10.08v18.57h35.25v-18.57c8.75-2,16.95-5.44,24.33-10.08l13.13,13.13,24.93-24.93-13.13-13.13c4.64-7.38,8.08-15.58,10.08-24.33h18.57v-35.25h-18.57c-2-8.75-5.44-16.95-10.08-24.33ZM137.69,249.05c0-13.75,11.19-24.94,24.94-24.94s24.94,11.19,24.94,24.94-11.19,24.94-24.94,24.94-24.94-11.19-24.94-24.94ZM162.47,194.31c8.72,0,16.96,2.05,24.28,5.68l-14.49,14.49c-3.07-.85-6.29-1.32-9.63-1.32s-6.74.49-9.88,1.39l-14.56-14.56c7.33-3.63,15.57-5.68,24.28-5.68ZM107.58,249.2c0-8.72,2.05-16.96,5.68-24.28l14.74,14.74c-.81,2.99-1.25,6.14-1.25,9.39s.47,6.56,1.32,9.63l-14.81,14.81c-3.63-7.33-5.68-15.57-5.68-24.28ZM162.47,304.09c-8.72,0-16.96-2.05-24.28-5.68l14.8-14.8c3.07.86,6.3,1.32,9.64,1.32s6.4-.44,9.39-1.25l14.73,14.73c-7.33,3.63-15.57,5.68-24.28,5.68ZM197.13,258.93c.9-3.14,1.39-6.45,1.39-9.88s-.47-6.57-1.32-9.65l14.49-14.49c3.63,7.33,5.68,15.57,5.68,24.28s-2.05,16.96-5.68,24.28l-14.55-14.55Z"/>
+    <path class="cls-10" d="M173.15,118.29l-9.89,4.47,8.48,18.77,9.89-4.47c3.17,4.18,6.97,7.72,11.22,10.53l-3.83,10.15,19.27,7.28,3.83-10.15c5.04.7,10.24.56,15.38-.48l4.47,9.89,18.77-8.48-4.47-9.89c4.18-3.17,7.72-6.97,10.53-11.22l10.15,3.83,7.28-19.27-10.15-3.83c.7-5.04.56-10.24-.48-15.38l9.89-4.47-8.48-18.77-9.89,4.47c-3.17-4.18-6.97-7.72-11.22-10.53l3.83-10.15-19.27-7.28-3.83,10.15c-5.04-.7-10.24-.56-15.38.48l-4.47-9.89-18.77,8.48,4.47,9.89c-4.18,3.17-7.72,6.97-10.53,11.22l-10.15-3.83-7.28,19.27,10.15,3.83c-.7,5.04-.56,10.24.48,15.38ZM247.6,95.97c7.28,16.12.09,35.15-16.03,42.43-16.12,7.28-35.15.09-42.43-16.03-7.28-16.12-.09-35.15,16.03-42.43,16.12-7.28,35.15-.09,42.43,16.03Z"/>
+    <path class="cls-10" d="M199.32,117.68c4.77,10.55,17.18,15.24,27.74,10.48,10.55-4.77,15.24-17.18,10.48-27.74-4.77-10.55-17.18-15.24-27.74-10.48-10.55,4.77-15.24,17.18-10.48,27.74ZM212.42,95.77c7.32-3.31,15.97-.04,19.28,7.28,3.31,7.32.04,15.97-7.28,19.28-7.32,3.31-15.97.04-19.28-7.28-3.31-7.32-.04-15.97,7.28-19.28Z"/>
+    <path class="cls-10" d="M322.92,214.51l8.2,3.04,5.78-15.57-8.2-3.04c.54-4.07.4-8.26-.46-12.4l7.95-3.65-6.93-15.1-7.95,3.65c-2.58-3.36-5.66-6.19-9.1-8.44l3.04-8.2-15.57-5.78-3.04,8.2c-4.07-.54-8.26-.4-12.4.46l-3.65-7.95-15.1,6.93,3.65,7.95c-3.36,2.58-6.19,5.66-8.44,9.1l-8.2-3.04-5.78,15.57,8.2,3.04c-.54,4.07-.4,8.26.46,12.4l-7.95,3.65,6.93,15.1,7.95-3.65c2.58,3.36,5.66,6.19,9.1,8.44l-3.04,8.2,15.57,5.78,3.04-8.2c4.07.54,8.26.4,12.4-.46l3.65,7.95,15.1-6.93-3.65-7.95c3.36-2.58,6.19-5.66,8.44-9.1ZM263.17,194.11c0-8.52,3.75-16.18,9.67-21.44l.07.16c0-.07,0-.15,0-.23,5.05-4.44,11.66-7.14,18.89-7.14,15.79,0,28.65,12.85,28.65,28.64s-12.85,28.64-28.65,28.64-28.64-12.85-28.64-28.64Z"/>
+  </g>
+</svg>
